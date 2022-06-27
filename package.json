@@ -1,0 +1,16 @@
+{
+  "name": "country-detail",
+  "version": "1.0.0",
+  "description": "Country phone code and flag in JSON format",
+  "main": "dist/index.json",
+  "author": "akoharu",
+  "license": "MIT",
+  "scripts": {
+    "build": "scripts/build.js"
+  },
+  "devDependencies": {
+    "axios": "^0.21.4",
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21"
+  }
+}
